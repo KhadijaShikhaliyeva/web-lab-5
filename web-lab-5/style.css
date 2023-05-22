@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans&family=Open+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+.sidenav {
+    height: 100%; 
+    width: 390px; 
+    position: fixed; 
+    z-index: 1; 
+    top: 0; 
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.04); 
+    overflow-x: hidden;
+    padding-top: 20px;
+    font-family: 'Instrument Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  .sidenav a {
+    padding: 6px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #818181;
+  }
+
+  .sidenav a:hover {
+    color: black;
+  }
+
+  .Khadija {
+padding-top: 25px;
+padding-left: 115px;
+font-family: 'Noto Sans', sans-serif;
+font-size: 34px;
+}
+
+.section{
+width: 350px;
+text-align: center;
+padding-top: 33px ;
+line-height: 50px;
+padding-bottom: 40px;
+}
+
+.copyright {
+position: relative;
+left: 60px;
+padding-bottom: 30px;
+color: #818181;
+}
+
+#lorem{
+font-size: 17px;
+position: relative;
+left: 80px;
+}
+
+.socialmedias{
+ padding-left: 100px;
+}
+
+/*--------------------------------------------------------------------------------------*/
+
+img {
+border-radius: 50%;
+width: 210px;
+position: relative;
+left: 55%;
+top: 100px;
+}
+
+.hello{
+color: #adabab;
+position: relative;
+left: 58%;
+top: 105px;
+font-size: 26px;
+font-family: 'Roboto', sans-serif;
+}
+
+.namesurname {
+    font-family: 'Noto Sans', sans-serif;
+    position: relative;
+    left: 49%;
+    top: 65px;
+    font-size: 45px;
+    letter-spacing: 1px;
+
+}
+
+.info{
+    font-family: 'Roboto', sans-serif;
+    color: #818181;
+    position: relative;
+    left: 13%;
+    top: 60px;
+    font-size: 21px;
+    text-align: center;
+}
+
+.more{
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    left: 57%;
+    top: 65px;
+    font-size: 23px;  
+}
+
+/*-----------------------------------------------------------------------------------------*/
+ 
+
+.js {
+    text-align: center;
+    padding: 23px;
+    background-color: skyblue;
+    color: white;
+    }
+
+#clear{
+width: 270px;
+border: 3px solid gray;
+    border-radius: 3px;
+    padding: 20px;
+    background-color: rgb(189, 102, 52);
+}
+
+.formstyle
+{
+width: 300px;
+height: 530px;
+margin: auto;
+border: 3px solid grey;
+border-radius: 5px;
+padding: 20px;
+position: relative;
+left: 13%;
+top: 150px;
+}
+
+
+
+input
+{
+width: 20px;
+background-color: white;
+color: black;
+border: 3px solid gray;
+    border-radius: 5px;
+    padding: 26px;
+    margin: 5px;
+    font-size: 15px;
+}
+
+
+#calc{
+width: 250px;
+border: 5px solid black;
+    border-radius: 3px;
+    padding: 20px;
+    margin: auto;
+}
